@@ -1,5 +1,5 @@
-#bankist
+# bankist
 
-##Bank bank bank
+## Bank bank bank
 
 Coursework - JS
