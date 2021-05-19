@@ -1,9 +1,9 @@
 # bankist
 
-### Bank bank bank
+### Simple Banking Application
 
-Coursework - JS
+Coursework
 
-`user: js ; pin: 1111 ; (locale:PT)`
+`user: czp ; pin: 1111 ; (locale:IN)`
 
 `user:jd ; pin:2222 (locale:US)`
